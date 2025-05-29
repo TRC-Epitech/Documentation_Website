@@ -1,0 +1,43 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "Electronique/challenge 1",
+          "docs": [
+            {
+              "id": "Electronique/challenge 1",
+              "path": "/docs/Electronique/challenge 1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "IT/challenge 2",
+              "path": "/docs/IT/challenge 2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Mecanique/challenge 3",
+              "path": "/docs/Mecanique/challenge 3",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/Electronique/challenge 1",
+                "label": "Electronique/challenge 1"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

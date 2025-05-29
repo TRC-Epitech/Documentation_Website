@@ -1,0 +1,20 @@
+{
+  "id": "Mecanique/challenge 3",
+  "title": "challenge 3",
+  "description": "",
+  "source": "@site/docs/Mecanique/challenge 3.md",
+  "sourceDirName": "Mecanique",
+  "slug": "/Mecanique/challenge 3",
+  "permalink": "/docs/Mecanique/challenge 3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Mecanique/challenge 3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "challenge 2",
+    "permalink": "/docs/IT/challenge 2"
+  }
+}

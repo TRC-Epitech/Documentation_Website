@@ -1,0 +1,24 @@
+{
+  "id": "IT/challenge 2",
+  "title": "challenge 2",
+  "description": "",
+  "source": "@site/docs/IT/challenge 2.md",
+  "sourceDirName": "IT",
+  "slug": "/IT/challenge 2",
+  "permalink": "/docs/IT/challenge 2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/IT/challenge 2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "challenge 1",
+    "permalink": "/docs/Electronique/challenge 1"
+  },
+  "next": {
+    "title": "challenge 3",
+    "permalink": "/docs/Mecanique/challenge 3"
+  }
+}

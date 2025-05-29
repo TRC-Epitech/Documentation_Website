@@ -1,0 +1,20 @@
+{
+  "id": "Electronique/challenge 1",
+  "title": "challenge 1",
+  "description": "",
+  "source": "@site/docs/Electronique/challenge 1.md",
+  "sourceDirName": "Electronique",
+  "slug": "/Electronique/challenge 1",
+  "permalink": "/docs/Electronique/challenge 1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Electronique/challenge 1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "challenge 2",
+    "permalink": "/docs/IT/challenge 2"
+  }
+}
